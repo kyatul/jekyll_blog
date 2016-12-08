@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Moving Average"
-date:   2016-09-10 13:24:52 +0530
+date:   2016-11-29 13:24:52 +0530
 ---
 
 
@@ -27,3 +27,6 @@ Two MA lines are created of 5/20 days or 10/50 days and the crossover signals th
 
 **Triple Crossover**
 Three MA lines are created of 4-9-18 days. Line-4 above Line-9, and Line-9 above Line-18 gives a Buy Signal and vice-versa.
+
+**MA Lines Value**
+Taking 5 as initial, and keep doubling it i.e 5,10,20,40 so that cycle principle is followed.
