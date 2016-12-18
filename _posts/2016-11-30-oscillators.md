@@ -16,3 +16,12 @@ If prices are rising and the momentum line is above the zero line and rising, th
 Moving Average crossover is spotted when oscillator comes at zero line.If the shorter average is above the longer, the oscillator would be positive. A negative reading would be present if the shorter average were under the longer.
 
 When the two moving average lines move too far apart, a market extreme is created calling for a pause in the trend.Very often, the trend remains stalled until the shorter average line moves back to the longer.
+
+
+**RSI**
+1. If the RSI is fixed in an overbought region for a prolonged period, look for buying opportunities instead of shorting. The RSI stays in the overbought region for a prolonged period because of an excess positive momentum
+2. If the RSI is fixed in an oversold region for a prolonged period, look for selling opportunities rather than buying. RSI stays in the oversold region for a prolonged period because of an excess negative momentum
+3. If the RSI value starts moving away from the oversold value afer a prolonged period, look for buying opportunities. For example, the RSI moves above 30 afer a long time may mean that the stock may have bottomed out, hence a case of going long.
+4. If the RSI value starts moving away from the overbought value afer a prolonged period, look for selling opportunities. For example, RSI moving below 70 afer a long time. This means the stock may have topped out, hence a case for shorting
+
+**Bollinger Bands - Technical Analysis tool which works best in sideways market**
